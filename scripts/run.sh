@@ -2,7 +2,7 @@
 
 xrdb merge ~/.Xresources 
 xbacklight -set 10 &
-feh --bg-fill ~/Pictures/wall/arch.png &
+feh --bg-fill ~/wallpapers/arch.png &
 xset r rate 200 50 &
 picom &
 
